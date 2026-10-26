@@ -1,0 +1,2 @@
+# Efficient-Attention-Based-Ensemble-with-Knowledge-Distillation-for-Breast-Ultrasound-Cancer-
+AIDE-KD focuses on reliable breast cancer diagnosis from ultrasound images by combining attention-based deep learning, ensemble learning, and knowledge distillation. The work aims to improve classification accuracy and interpretability while developing a more computationally efficient model for distinguishing benign and malignant breast lesions.
